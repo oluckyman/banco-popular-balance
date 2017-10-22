@@ -1,0 +1,14 @@
+{
+  "name": "bancopopular_balance",
+  "version": "0.0.1",
+  "description": "Logs in bancopopular site and shows your balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oluckyman",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
