@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "casperjs": "^1.1.4",
+    "moment": "^2.19.2",
     "phantomjs": "^2.1.7"
   },
   "devDependencies": {}
